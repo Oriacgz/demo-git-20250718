@@ -1,0 +1,15 @@
+Hello eberyone learnin git commands
+git init
+
+git config --global user.name ""
+
+git config --global user.email ""
+
+git add .
+
+git status
+
+git commit -m ""
+
+git push origin main
+
